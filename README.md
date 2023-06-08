@@ -1,3 +1,3 @@
 # My Story
 
-i am learning python
+I am learning python.
